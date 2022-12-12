@@ -26,16 +26,19 @@ function Blog() {
                         <BlogCart img='https://images.unsplash.com/photo-1494879540385-bc170b0878a7?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8NDZ8MzQ0NDQ5NHx8ZW58MHx8fHw%3D&auto=format&fit=crop&w=500&q=60' />
                     </Col>
 
-                    <Col sm>
+                    <Col >
                         <BlogCart img='https://images.unsplash.com/photo-1497384401032-2182d2687715?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8NTV8MzQ0NDQ5NHx8ZW58MHx8fHw%3D&auto=format&fit=crop&w=500&q=60' />
                     </Col>
-                    <Col sm>
+                    <Col >
                         <BlogCart img='https://images.unsplash.com/photo-1502021680532-838cfc650323?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8NjF8MzQ0NDQ5NHx8ZW58MHx8fHw%3D&auto=format&fit=crop&w=500&q=60' />
                     </Col>
-                    <Col sm>
+                    <Col >
                         <BlogCart img='https://images.unsplash.com/photo-1502147704994-6bfb9b28d71d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8Njh8MzQ0NDQ5NHx8ZW58MHx8fHw%3D&auto=format&fit=crop&w=500&q=60' />
                     </Col>
-                    <Col sm>
+                    <Col >
+                        <BlogCart img='https://images.unsplash.com/photo-1514496959998-c01c40915c5f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8Nzl8MzQ0NDQ5NHx8ZW58MHx8fHw%3D&auto=format&fit=crop&w=500&q=60' />
+                    </Col>
+                    <Col >
                         <BlogCart img='https://images.unsplash.com/photo-1514496959998-c01c40915c5f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8Nzl8MzQ0NDQ5NHx8ZW58MHx8fHw%3D&auto=format&fit=crop&w=500&q=60' />
                     </Col>
                 </Row>
