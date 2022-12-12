@@ -1,0 +1,9 @@
+.quotes_container{
+    margin-top: 3%;
+    .quotes{
+        display: flex;
+        flex-direction: column;
+        gap: 10px;
+        margin-bottom: 3%;
+    }
+}
