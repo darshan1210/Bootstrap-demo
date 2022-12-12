@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Kalam:wght@700&display=swap');
+
 .quotes_container{
     margin-top: 3%;
     .quotes{
@@ -5,5 +7,15 @@
         flex-direction: column;
         gap: 10px;
         margin-bottom: 3%;
+        h1{
+            text-align: center;
+            font-family: 'Kalam', cursive;
+            font-size: 3rem;
+        }
     }
+}
+
+.quotes_header{
+    background-color: rgb(80, 80, 80);
+    color: white;
 }

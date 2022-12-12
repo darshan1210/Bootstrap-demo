@@ -38,12 +38,12 @@ function Header() {
               </NavDropdown>
 
               <Nav.Link href="#" >About</Nav.Link>
-             
+
             </Nav>
 
             <Button variant="primary" className='log_in_btn' onClick={() => setModalShow(true)}>
-                Log-in
-              </Button>
+              Log-in
+            </Button>
           </Navbar.Collapse>
 
 
